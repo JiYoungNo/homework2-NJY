@@ -27,7 +27,7 @@ Project clone > cmd > 해당 폴더로 이동 > 명령어 입력
    `http://localhost:8080/swagger-ui.html`
 
 # Detail
-> main.java.com.kakaopay.homework.web.CouponController.java [API]
+> main.java.com.kakaopay.homework.web.CouponController.java [API] <br>
 > test.java.com.kakaopay.homework.web.CouponControllerTest.java [Test]
 
 

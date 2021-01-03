@@ -10,7 +10,8 @@
 ## 개발 환경
 Language: **java** openjdk 1.8    
 Framework: **Spring boot** 2.1.7.RELEASE    
-Data: **Spring Data JPA, h2** Build: gradle 6.7  
+Data: **Spring Data JPA, h2** 
+Build: gradle 6.7  
 Test: Junit   
 doc: Swagger2  
 IDE: IntelliJ IDEA

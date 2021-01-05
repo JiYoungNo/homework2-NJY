@@ -35,5 +35,5 @@ Project clone > cmd > 해당 폴더로 이동 > 명령어 입력
 ```
 쿠폰번호: XXXXX-XXXXXX-XXXXXXXX 
 > ex) K0103-160005-48973639  
-> "K" + yyyy-MMddss- + random 8자  
+> "K" + MMdd-HHmmss- + random 8자  
 ```

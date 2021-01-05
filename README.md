@@ -20,7 +20,7 @@ IDE: IntelliJ IDEA
 Project clone > cmd > 해당 폴더로 이동 > 명령어 입력
 1. buid  
    `> gradlew  `
-2. tes
+2. test
    `> gradlew test`
 3. run    
    `> gradlew bootRun `
